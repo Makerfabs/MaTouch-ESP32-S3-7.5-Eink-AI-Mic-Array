@@ -1,0 +1,5 @@
+#pragma once
+
+#define APP_CAMERA_WARMUP_FRAMES 3
+#define APP_CAMERA_HMIRROR 0
+#define APP_CAMERA_VFLIP 0

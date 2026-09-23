@@ -1,0 +1,5 @@
+dependencies:
+  espressif/es7210: "^1.0.0"
+  espressif/esp-sr: "2.1.5"
+  idf:
+    version: ">=5.4.0,<5.5.0"
