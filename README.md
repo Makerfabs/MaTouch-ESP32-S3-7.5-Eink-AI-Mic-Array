@@ -51,8 +51,12 @@ Example：1.[Camera_display_pic](https://github.com/Makerfabs/MaTouch-ESP32-S3-7
 
 ### Camera_display_pic
 
+![](md_pic/gif1.gif)
+
 For details of this example, please refer to the [Wiki](https://wiki.makerfabs.com/MaTouch%20ESP32_S3%207.5%20Eink%20AI%20Mic%20Array.html#41-camera_display_pic) document.
 
 ### Voice_EPD_SD_Display
+
+![](md_pic/gif2.gif)
 
 For details of this example, please refer to the [Wiki](https://wiki.makerfabs.com/MaTouch%20ESP32_S3%207.5%20Eink%20AI%20Mic%20Array.html#42-voice_epd_sd_display) document.
