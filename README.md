@@ -10,9 +10,9 @@ Product Link: [MaTouch ESP32-S3 7.5 Eink AI Mic Array]
 
 Wiki Link:  [MaTouch ESP32-S3 7.5 Eink AI Mic Array](https://wiki.makerfabs.com/MaTouch%20ESP32_S3%207.5%20Eink%20AI%20Mic%20Array.html)
 
-Example：1.[Camera_display_pic]()
+Example：1.[Camera_display_pic](https://github.com/Makerfabs/MaTouch-ESP32-S3-7.5-Eink-AI-Mic-Array#camera_display_pic)
 
-2.[Voice_EPD_SD_Display]()
+2.[Voice_EPD_SD_Display](https://github.com/Makerfabs/MaTouch-ESP32-S3-7.5-Eink-AI-Mic-Array#voice_epd_sd_display)
          
 
 ## LCD Specs:
