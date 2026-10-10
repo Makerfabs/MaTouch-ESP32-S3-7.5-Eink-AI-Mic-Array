@@ -6,7 +6,7 @@ Our MaTouch ESP32-S3 7.5-inch Quad-color E-Ink Display AI Microphone Array Devel
  
 The board is powered by the ESP32-S3R8 main controller, equipped with 8 MB PSRAM and 16 MB SPI Flash. It integrates a four-microphone array and an ES7210 multi-channel audio ADC, enabling multi-channel audio capture for voice recognition, far-field sound pickup, and acoustic algorithm development. Additionally, it includes a QMI8658A six-axis inertial measurement unit providing accelerometer and gyroscope data for motion detection, orientation sensing, and interactive control. The board also features a camera, TF card slot, USB Type-C interface, lithium battery charging circuit, and reserved battery level monitoring functionality, making it ideal for application development in e-paper displays, image capture, voice interaction, and motion sensing.
 
-Product Link: [MaTouch ESP32-S3 7.5 Eink AI Mic Array]
+Product Link: [MaTouch ESP32-S3 7.5 Eink AI Mic Array](https://www.makerfabs.com/matouch-esp32-s3-7-5-quad-color-eink-epaper.html)
 
 Wiki Link:  [MaTouch ESP32-S3 7.5 Eink AI Mic Array](https://wiki.makerfabs.com/MaTouch%20ESP32_S3%207.5%20Eink%20AI%20Mic%20Array.html)
 
